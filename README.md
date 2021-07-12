@@ -16,7 +16,7 @@ npm start # visit app at http://localhost:8000/
 
 # Deployment
 
-Instructions to deploy to Gatsby to Azure Static Web App [here](https://www.google.com/search?q=how+to+deploy+gatsby+azure+static+web+app&rlz=1C5CHFA_enGB870GB870&sxsrf=ALeKk02qHl3Anlahgr2XfUIR_2jOCY3bAA%3A1625773632174&ei=QFbnYIGHCr-MhbIP3JSIgAg&oq=how+to+deploy+gatsby+azure+static+web+app&gs_lcp=Cgdnd3Mtd2l6EAxKBAhBGABQAFgAYIkQaABwAngAgAFciAFckgEBMZgBAKoBB2d3cy13aXrAAQE&sclient=gws-wiz&ved=0ahUKEwiBp9LentTxAhU_RkEAHVwKAoAQ4dUDCA4)
+Instructions to deploy to Gatsby to Azure Static Web App [here](https://docs.microsoft.com/en-us/learn/modules/create-deploy-static-webapp-gatsby-app-service/)
 
 ## Contributing
 
