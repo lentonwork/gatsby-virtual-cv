@@ -10,7 +10,7 @@ npm i # installs node dependencies
 
 ## Usage
 
-```python
+```bash
 npm start # visit app at http://localhost:8000/
 ```
 
