@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: "Full-Stack Bootcamp",
-    author: "Andrew Mead",
+    title: "My Virtual CV",
+    author: "Matthew Lau",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
@@ -27,13 +27,6 @@ module.exports = {
             },
           },
         ],
-      },
-    },
-    {
-      resolve: `gatsby-source-contentful`,
-      options: {
-        spaceId: process.env.CONTENTFUL_SPACE_ID,
-        accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
       },
     },
   ],

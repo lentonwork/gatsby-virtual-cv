@@ -10,10 +10,12 @@ const ContactPage = () => {
       <h1>Contact</h1>
       <p>
         The best way to reach me is via{" "}
-        <a href="https://twitter.com/@andrew_j_mead" target="_blank">
-          @andrew_j_mead
-        </a>{" "}
-        on Twitter!
+        <a
+          href="https://www.linkedin.com/in/matthew-lau-4196b563/"
+          target="_blank"
+        >
+          LinkedIn
+        </a>
       </p>
     </Layout>
   )

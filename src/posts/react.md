@@ -1,6 +1,6 @@
 ---
 title: "React"
-date: "2019-04-02"
+date: "2021-07-23"
 ---
 
-In this post you'll learn React.
+React is fun. Angular gave me headache.

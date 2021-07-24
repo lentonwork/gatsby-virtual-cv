@@ -1,11 +1,11 @@
 ---
-title: "The Great Gatsby Bootcamp"
-date: "2019-04-04"
+title: "The Great Gatsby"
+date: "2021-07-25"
 ---
 
-I just launched a new bootcamp!
+I just launched my virtual CV site with Gatsby!
 
-## Topics Covered
+## Technology used
 
 1. Gatsby
 2. GraphQL
