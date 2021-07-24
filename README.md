@@ -18,7 +18,7 @@ npm start # visit app at http://localhost:8000/
 
 # Deployment to Netlify
 
-Instructions to deploy to Netlify [here](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/)
+Instructions to deploy to Netlify [here](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/). Note, the output of `npm run build` is inside the `/public` directory. See Gatsby doc [here](https://www.gatsbyjs.com/docs/reference/gatsby-project-structure/)
 
 # Deployment to Azure
 
